@@ -21,10 +21,10 @@ Desktop GUI application built using Python Tkinter.
 - Tkinter (GUI)
 - Pillow (PIL)
 
-## 📁 Installation & Setup
+#  Installation & Setup
 
- 1. Clone the repository
 ```bash
+1. Clone the repository
 git clone https://github.com/Mhrzn_Sherin/python_pizza_store_gui.git
 2. Navigate to the project folder: cd python_pizza_store_gui 
 3. Install dependencies: pip install -r requirements.txt
